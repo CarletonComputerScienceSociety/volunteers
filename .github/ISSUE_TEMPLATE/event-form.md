@@ -1,6 +1,6 @@
 ---
 name: Event form
-about: Describe this issue template's purpose here.
+about: Create an event form.
 title: ''
 labels: event
 assignees: ''
@@ -9,10 +9,9 @@ assignees: ''
 
 | **Title**       | (title)    |
 |-----------------|-----------------------------|
-| **Short Description** | `75 characters` |
+| **Short Description** | `75 characters max` |
 | **Date**        | `mm/dd/yyyy`                  |
 | **Time**        | `x:xx - x:xx`              |
 | **Location**    | `location`                    |
 | **Poster**      | [View Poster](`canva link`) |
-| **Lead**        | `github tag`      |
 
