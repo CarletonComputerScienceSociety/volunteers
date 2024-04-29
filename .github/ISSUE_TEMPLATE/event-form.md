@@ -35,6 +35,3 @@ assignees: ''
 ### Learned
 
 `add details`
-
-
-
