@@ -13,6 +13,6 @@ assignees: ''
 | **Date**        | `mm/dd/yyyy`                  |
 | **Time**        | `x:xx - x:xx`              |
 | **Location**    | `location`                    |
-| **Poster**      | [View Poster](canva link) |
+| **Poster**      | [View Poster](`canva link`) |
 | **Lead**        | `github tag`      |
 
