@@ -2,7 +2,7 @@
 name: Event form
 about: Create an event form.
 title: ''
-labels: event
+labels: ''
 assignees: ''
 
 ---
