@@ -7,29 +7,12 @@ assignees: ''
 
 ---
 
-# Title
-[Title Placeholder]
+| **Title**       | (title)    |
+|-----------------|-----------------------------|
+| **Short Description** | `75 characters` |
+| **Date**        | `mm/dd/yyyy`                  |
+| **Time**        | `x:xx - x:xx`              |
+| **Location**    | `location`                    |
+| **Poster**      | [View Poster](canva link) |
+| **Lead**        | `github tag`      |
 
-## Short Description
-[Short Description Placeholder]
-
-## Date
-[Date Placeholder]
-
-## Time
-[Time Placeholder]
-
-## Location
-[Location Placeholder]
-
-## Poster
-[Poster Placeholder]
-
-## Slides
-[Slides Placeholder]
-
-## Attendance
-[Attendance Placeholder]
-
-## Lead
-[Lead Placeholder]
