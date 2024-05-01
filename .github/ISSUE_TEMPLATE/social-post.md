@@ -2,7 +2,7 @@
 name: Social Post
 about: Create a post on social media
 title: ''
-labels: ''
+labels: promotions, social post
 assignees: ''
 
 ---

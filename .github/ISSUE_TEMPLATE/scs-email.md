@@ -2,7 +2,7 @@
 name: SCS Email
 about: Create an scs email
 title: ''
-labels: scs email
+labels: promotions, scs email
 assignees: ''
 
 ---

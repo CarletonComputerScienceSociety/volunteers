@@ -1,8 +1,8 @@
 ---
-name: Event form
+name: Event Proposal
 about: Create an event form.
 title: ''
-labels: ''
+labels: event proposal, events
 assignees: ''
 
 ---
@@ -16,22 +16,5 @@ assignees: ''
 | **Poster**      | [View Poster](`canva link`) |
 
 ## Plan
-
-`add details`
-
-
-## Post Mortem
-
-**Attendance**:  `tbd`
-
-### Liked
-
-`add details`
-
-### Lacked
-
-`add details`
-
-### Learned
 
 `add details`

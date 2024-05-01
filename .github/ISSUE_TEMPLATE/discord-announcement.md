@@ -2,7 +2,7 @@
 name: Discord Announcement
 about: Create a discord announcement
 title: ''
-labels: discord announcement
+labels: discord announcement, promotions
 assignees: ''
 
 ---

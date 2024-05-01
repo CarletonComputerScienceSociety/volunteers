@@ -2,7 +2,7 @@
 name: Room Booking
 about: Create a room booking
 title: ''
-labels: room booking
+labels: ''
 assignees: ''
 
 ---
