@@ -1,5 +1,5 @@
 ---
-name: New Blank Sub Issue
+name: New Sub Issue
 about: Base sub issue template
 title: ''
 labels: sub-issue
