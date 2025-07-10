@@ -1,8 +1,8 @@
 ---
-name: New Blank Issue
-about: Base Issue Template
+name: New Blank Sub Issue
+about: Base sub issue template
 title: ''
-labels: 
+labels: sub-issue
 assignees: ''
 
 ---
