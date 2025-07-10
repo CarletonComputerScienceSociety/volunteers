@@ -2,7 +2,7 @@
 name: Promotion
 about: Promote an initiative
 title: ''
-labels: promotions, promotion-workflow
+labels: promotions, promotions-workflow
 assignees: ''
 
 ---

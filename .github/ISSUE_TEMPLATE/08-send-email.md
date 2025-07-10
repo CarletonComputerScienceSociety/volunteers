@@ -2,7 +2,7 @@
 name: Send Email
 about: Send an email
 title: ''
-labels: ''
+labels: 'email'
 assignees: ''
 
 ---
