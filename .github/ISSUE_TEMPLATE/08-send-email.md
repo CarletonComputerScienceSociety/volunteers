@@ -10,13 +10,10 @@ assignees: ''
 *what is this email about?*
 
 ## 📝 Content
-*what needs to be included in the email?*
+*what needs to be covered in the email?*
 
 ## 🧑 Sent To
 *who will this be sent to? Should bod or anyone else be cc'ed?*
-
-## 📧 Sent By
-*who will actually send this email out, if drafting it is assigned to someone else?*
 
 ## ✅ Acceptance Criteria
 - [ ] Draft created and shared for feedback  
