@@ -1,6 +1,6 @@
 ---
-name: Send Email
-about: Send an email
+name: Send or Draft Email
+about: Send or draft an email
 title: ''
 labels: 'email'
 assignees: ''
