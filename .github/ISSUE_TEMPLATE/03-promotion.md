@@ -16,7 +16,7 @@ assignees: ''
 *Poster link? Are there any important links?*
 
 ## ✅ Acceptance Criteria 
-*Select the channels via which this should be promoted*
+*Select the channels via which this should be promoted (add an x to the box)*
 * [ ] Event has been promoted in all of the following ways:
    * [x] Posted on Instagram  
    * [x] Added to Discord Events  
