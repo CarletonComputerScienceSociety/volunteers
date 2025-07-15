@@ -27,3 +27,4 @@ assignees: ''
    * [ ] Included in an upcoming mailing list Email  
    * [ ] Posted on LinkedIn  
    * [ ] Physical posters printed and posted around campus
+   * [ ] Class announcements
